@@ -17,9 +17,12 @@ You may also like:
 
 ## Key Features of Sprunki Pyramixed
 
-- **Music Creation System**: Players can drag and drop various characters onto a stage, each producing distinct sounds. This allows for layering different audio elements to craft original musical compositions. The intuitive interface makes it accessible for both newcomers and experienced players[1][2].
+- **Music Creation System**: Players can drag and drop various characters onto a stage, each producing distinct sounds. This allows for layering different audio elements to craft original musical compositions. The intuitive interface makes it accessible for both newcomers and experienced players.
+  
 - **Character Customization**: Players can modify their avatars, influencing both their appearance and the sounds they produce. This feature enhances player engagement, allowing for personal expression within the game.
+  
 - **Rhythmic Challenges**: The game includes challenges that require players to match beats and rhythms. Successfully completing these tasks unlocks new characters and sound packs, adding variety to the gameplay.
+  
 - **Collaboration and Community**: Sprunki Pyramixed fosters a collaborative environment where players can team up with friends to create music together, share compositions, and participate in community events.
 
 ## Gameplay Mechanics of Sprunki Pyramixed

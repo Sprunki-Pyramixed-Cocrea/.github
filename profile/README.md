@@ -27,19 +27,24 @@ You may also like:
 1. **Getting Started**:
    - Access the game through the Spunky Play website; no downloads are necessary.
    - Select from a variety of characters, each with unique sounds and abilities.
+     
 2. **Creating Music**:
    - Players create music by dragging characters onto a stage.
    - Adjust pitch and tempo of sounds to craft personalized tracks.
+     
 3. **Completing Challenges**:
    - Match beats while completing specific tasks to unlock new content.
    - Emphasis on timing and creativity is crucial for success.
+     
 4. **Experimentation**:
    - Players are encouraged to mix different characters and sounds.
    - Utilize visual cues to maintain rhythm and synchronization in compositions.
 
 ## Visual Appeal
 
-The Sprunki Pyramixed exhibits vibrant graphics and animations that heighten the gaming experience, while Sprunki Pyramixed immerses players in a lively environment as they explore their musical creativity.Community Engagement
+The Sprunki Pyramixed exhibits vibrant graphics and animations that heighten the gaming experience, while Sprunki Pyramixed immerses players in a lively environment as they explore their musical creativity.
+
+## Community Engagement
 
 ### Sharing Creations
 

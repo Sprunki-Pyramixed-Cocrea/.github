@@ -41,12 +41,12 @@ You may also like:
 
 The Sprunki Pyramixed exhibits vibrant graphics and animations that heighten the gaming experience, while Sprunki Pyramixed immerses players in a lively environment as they explore their musical creativity.Community Engagement
 
-### Sharing Creations:
+### Sharing Creations
 
 - Players can share their musical creations with the community.
 - Participate in contests or events that showcase player compositions.
 
-### Collaborative Play:
+### Collaborative Play
 
 - Join friends or other players online for collaborative music-making sessions.
 - Discover new techniques and styles through community interaction.

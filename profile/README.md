@@ -14,6 +14,7 @@ You may also like:
 - [Sprunki Scrunkly](https://pyramixed.com/sprunki-scrunkly)
 - [Sprunki Retake Final Update](https://pyramixed.com/sprunki-retake-final-update)
 - [Sprunki Sprunkr](https://sprunkr.me/)
+- [Sprunki Corruptbox](https://corruptbox.com/)
 
 ## Key Features of Sprunki Pyramixed
 

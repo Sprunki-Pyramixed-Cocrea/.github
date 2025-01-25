@@ -9,11 +9,10 @@ Are you ready to plunge into an absolutely enchanting journey of music? Come on!
 - [Sprunki Pyramixed](https://pyramixed.com/)
 
 You may also like:
-
+- [Sprunksters](https://sprunksters.net/)
 - [Sprunki Parodybox](https://pyramixed.com/sprunki-parodybox)
 - [Sprunki Scrunkly](https://scrunkly.online)
 - [Sprunki Retake Final Update](https://pyramixed.com/sprunki-retake-final-update)
-- [Sprunki Sprunkr](https://sprunkr.me/)
 - [Sprunki Corruptbox](https://corruptbox.com/)
 
 ## Key Features of Sprunki Pyramixed
